@@ -192,7 +192,7 @@ footer p {
 
    .last-container {
     gap: 100px;
-   
+   }
 }
 
 @media (max-width: 600px) {
